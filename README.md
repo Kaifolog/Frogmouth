@@ -1,6 +1,6 @@
 ![frogmouth](resources/img/frogmouth.jpg)  
-Frogmouth is the python framework to building modular and simple telegram bots around telebot library.
+Frogmouth is a python framework for building simple, modular telegram bots using telebot library.
 
-To start use it you have to install pyTelegramApiBot lib and start bot.py .
+To start using it you have to install pyTelegramApiBot lib and start bot.py .
 
-All paths you have to define in path.py file, where are callable all of your classes from modules folder.
+All paths have to be defined in the path.py file, where all of your classes from the modules folder are callable.
